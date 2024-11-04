@@ -1,6 +1,6 @@
 ## Hi there! 👋 Welcome to My GitHub Profile!
 
-I'm **Francisco Oliveira** – a passionate Portuguese Software Engineer 🚀 with a knack for crafting efficient, user-friendly applications. Currently open to exciting job opportunities where I can leverage my skills and grow my expertise. 🌍
+I'm **Francisco Oliveira** a passionate Portuguese Software Engineer 🚀 with a knack for crafting efficient, user-friendly applications. Currently open to exciting job opportunities where I can leverage my skills and grow my expertise. 🌍
 
 ---
 
