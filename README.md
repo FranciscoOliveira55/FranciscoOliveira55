@@ -31,7 +31,6 @@ I'm **Francisco Oliveira** a passionate portuguese Software Engineer 🚀 with a
 ---
 
 ## 📫 Connect with Me
-- 🌐 [**LinkedIn**](https://www.linkedin.com/in/francisco-oliveira-5b7b70216/)
 - 📧 Email: oliveira2000francisco@gmail.com
 
 ---
